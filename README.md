@@ -1,37 +1,27 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Link to the Website : https://www.gvtech.uk
 
-First, run the development server:
+# Project Set Up on Local Device
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Tho set up this project, you need to have the following dependencies installed:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- [Node.js](https://nodejs.org/en/download)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Client set up
 
-## Learn More
+The client side or frontend is built using React. Follow the steps below to get the client up and running.
 
-To learn more about Next.js, take a look at the following resources:
+1. In the root directory,
+2. `npm install` // Only required first time you run the project
+3. `npm run dev`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Server set up
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The server or backend code uses Node.js. Follow the steps below to get the server up and running.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# GVTech-
+1. In the root directory, `cd backend`
+2. `npm install` // Only required first time you run the project
+3. `node server.js`
