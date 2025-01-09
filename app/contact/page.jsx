@@ -63,7 +63,7 @@ const Contact = () => {
     try {
       // Send form data to the backend
       const response = await axios.post(
-        "https://backendgvtech-phw7quna2-gopinathvarads-projects.vercel.app/api/messages",
+        "https://backendgvtech.vercel.app/api/messages",
         formData
       );
       alert(response.data.message);
