@@ -71,9 +71,14 @@ const experience = {
     "Software Developer passionate about building customer-centric applications. Skilled in developing scalable web and mobile solutions using React, Node.js, AI/ML and Augmented Reality. Experienced in API integration, data processing, and creating accessible software to optimise workflows.",
   items: [
     {
+      company: "Quantum Data Labs",
+      position: "Software Engineer",
+      duration: "Jan 2025 - Present",
+    },
+    {
       company: "GVTech",
       position: "Freelance Software Developer",
-      duration: "Oct 2022 - Present",
+      duration: "Jan 2023 - Dec 2024",
     },
     {
       company: "Mitacs Globalink Research Organization",
